@@ -11,9 +11,11 @@ quick surface
 
 `. cdrails`
 
-For convenience possible to make alias, something like:
+For convenience possible to make alias and link, something like:
 
 `alias cdr=cdrails`
+
+`ln -s cdrails cdr`
 
 And then:
 
