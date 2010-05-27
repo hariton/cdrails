@@ -3,9 +3,9 @@ It can be useful to those who constantly live in the console.
 
 # Using
 
-diving example:
+deep diving (standard Spree-directory):
 
-`cd app/controllers/admin`
+`cd vendor/extensions/site/app/views`
 
 quick surface
 
@@ -21,7 +21,13 @@ And then:
 
 `. cdr`
 
-It is also possible to jump to special Rails-dir:
+It is also possible to jump to Rails-dir without any '../../..', for example:
+
+  `cd vendor/extensions/site/app/views`
+
+  `. cdr app/views/layouts`
+
+Or to special Rails-shortcats:
 
   `. cdr migrate`
 
@@ -29,7 +35,7 @@ It is also possible to jump to special Rails-dir:
 
   etc.
 
-Ready shortcats:
+List of shortcats:
 
 - models -> app/models' 
 - controllers -> app/controllers' 
