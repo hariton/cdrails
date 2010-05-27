@@ -3,6 +3,8 @@ It can be useful to those who constantly live in the console.
 
 # Using
 
+Place `cdrails` in any dir included in your $PATH.
+
 deep diving (standard Spree-directory):
 
 `cd vendor/extensions/site/app/views`
