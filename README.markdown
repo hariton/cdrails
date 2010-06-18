@@ -39,14 +39,14 @@ Or to special Rails-shortcats:
 
 List of shortcats:
 
-- models -> app/models' 
-- controllers -> app/controllers' 
-- helpers -> app/helpers' 
-- views -> app/views' 
-- layouts -> app/views/layouts'
-- migrate -> db/migrate' 
-- gems -> vendor/gems' 
-- plugins -> vendor/plugins' 
+- models -> app/models
+- controllers -> app/controllers
+- helpers -> app/helpers
+- views -> app/views
+- layouts -> app/views/layouts
+- migrate -> db/migrate
+- gems -> vendor/gems
+- plugins -> vendor/plugins
 
 ---------------------------------------
 
@@ -55,3 +55,7 @@ For details, see code and `man bash` (about `source`):
 > Read and execute commands from filename in the current shell
 > environment and return the exit  status  of  the last  command
 > executed  from filename.
+
+---------------------------------------
+
+["Cdrails - быстрое всплытие"](http://hmizgir.livejournal.com/1065.html), Jun. 18th, 2010
