@@ -58,4 +58,7 @@ For details, see code and `man bash` (about `source`):
 
 ---------------------------------------
 
+# See also
+
+[cdgem - cli gem navigation](http://gist.github.com/478223)
 ["Cdrails - быстрое всплытие"](http://hmizgir.livejournal.com/1065.html), Jun. 18th, 2010
