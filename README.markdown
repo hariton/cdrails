@@ -56,9 +56,7 @@ For details, see code and `man bash` (about `source`):
 > environment and return the exit  status  of  the last  command
 > executed  from filename.
 
----------------------------------------
+## See also
 
-# See also
-
-[cdgem - cli gem navigation](http://gist.github.com/478223)
-["Cdrails - быстрое всплытие"](http://hmizgir.livejournal.com/1065.html), Jun. 18th, 2010
+- [cdgem](http://gist.github.com/478223) - cli gem navigation
+- ["Cdrails - быстрое всплытие"](http://hmizgir.livejournal.com/1065.html), Jun. 18th, 2010
